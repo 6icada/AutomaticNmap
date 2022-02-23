@@ -1,0 +1,2 @@
+# AutomaticNmap
+its good :D
